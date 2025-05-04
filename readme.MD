@@ -4,3 +4,4 @@
 |title|link|
 |:-:|:-:|
 | combination and counting | [link](./combination_counting.ipynb) |
+| Conditional Probability | [link](./conditional_probability.ipynb) |
